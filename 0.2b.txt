@@ -1,0 +1,12 @@
+// C--h--a--n--g--e---L--o--g
+// New Version: 0.2b
+// Current version: 0.2b 
+// --------------------------------
+
+             //--0.2b--\\
+//: Phantom Assassin: Death Mark now toggle 
+//:	Phantom Assasin: After kill caster loss 50 mana. If is ancient 100 
+//: Bounty Hunter: Added
+//: Bounty Hunter: Track can cast on creeps.
+//: Bounty Hunter: Nerfed for Hardcore 
+//===============
